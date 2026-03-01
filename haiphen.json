@@ -6,14 +6,14 @@
             "bin": [
                 "haiphen.exe"
             ],
-            "hash": "12d983142b56050b6bacec5aba7464f6c6086b6336f6025240ae62053dcf73a2"
+            "hash": "fb799affde0e07167558680436ae6640fa777771922a7518baa93e0625d29440"
         },
         "arm64": {
             "url": "https://github.com/haiphenAI/haiphen-cli/releases/download/v0.2.10/haiphen_0.2.10_windows_arm64.zip",
             "bin": [
                 "haiphen.exe"
             ],
-            "hash": "5642d63aaf551426b6c8eea086d6c24a022b6c5f43bc34e7d454aaf50858dc9d"
+            "hash": "7b3f4a41d6060a2c789bc082878679e25a7bcb8c15dc2da491121678c86c8b2f"
         }
     },
     "homepage": "https://haiphen.io",
